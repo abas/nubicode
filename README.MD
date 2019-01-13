@@ -1,9 +1,8 @@
-# NubiCode | newbie code
-> **nubicode**, writing code with dont care who'll be read it. 
-```js
-  if ( you._understand() ) {
-    console.log("just shut the fak up~")
-  } else {
-    return "please just shut the fak up~"
-  }
+## NubiCode | Express Your Feeling
+> GuidLine
+
+```bash
+  $ guideline --help
+  |-> Error 404 : Guide Line not Found :>
 ```
+**\<Kankuu\>** dont be hesitate to make an __`Issue`__ or __`Pull Request`__ :>
